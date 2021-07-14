@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chaeyoonl)](https://velog.io/@chaeyoonl) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaeyoonl&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=chaeyoonl)
