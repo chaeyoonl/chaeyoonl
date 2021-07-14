@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=chaeyoonl)](https://velog.io/@chaeyoonl) 
+<a href="https://velog.io/@chaeyoonl" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://blog.naver.com/gkdtkd280" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaeyoonl&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=chaeyoonl)
