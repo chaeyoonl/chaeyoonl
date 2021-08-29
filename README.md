@@ -1,6 +1,8 @@
 ### [에이비씨랩스_APP]
 [에이비씨랩스_APP_매뉴얼.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071822/_APP_.pdf)
 
+https://blog.naver.com/gkdtkd280/222487736291
+
 ### [긴급SOS_APP]
 [긴급SOS_APP사용설명서.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071826/SOS_APP.pdf)
 
