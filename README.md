@@ -3,6 +3,7 @@
 
 ### [긴급SOS_APP]
 [긴급SOS_APP사용설명서.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071826/SOS_APP.pdf)
+
 https://blog.naver.com/gkdtkd280/222070790036
 
 
