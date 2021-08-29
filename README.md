@@ -1,6 +1,6 @@
 ### [프로보노_드론]
 - android studio (java)
-- 아두이노 부품 정보를 AWS를 이용하여 어플에서 확인 가능한 어플 제작
+- 라즈베리파이 부품 정보를 AWS를 이용하여 어플에서 확인 가능한 어플 제작
 
 [제작설계서_최종.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071976/_.pdf)
 
