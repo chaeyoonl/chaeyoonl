@@ -8,6 +8,10 @@ https://blog.naver.com/gkdtkd280/222487736291
 
 https://blog.naver.com/gkdtkd280/222070790036
 
+### [프로보노_드론]
+[제작설계서_최종.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071976/_.pdf)
+
+https://blog.naver.com/gkdtkd280/222487862314
 
 
 
