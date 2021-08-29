@@ -1,7 +1,5 @@
 ### [에이비씨랩스_APP]
-[에이비씨랩스_APP_매뉴얼.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071822/_APP_.pdf)
-
-https://blog.naver.com/gkdtkd280/222487736291
+- 스마트팜 기능을 가진 기계와 연동하여 해당 정보를 어플에서 보여주고 수정할 수 있는 앱 개발
 
 ### [긴급SOS_APP]
 [긴급SOS_APP사용설명서.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071826/SOS_APP.pdf)
