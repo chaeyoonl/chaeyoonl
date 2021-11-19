@@ -31,6 +31,8 @@ https://blog.naver.com/gkdtkd280/222070790036
 - MVP패턴이 적용된다면, 모델을 고칠경우 뷰에게 영향을 끼치지 않고 뷰를 고칠경우 모델에 영향을 끼치지 않아서 개발의 효율성을 높일 수 있습니다.
 - 모델과 뷰는 분리되어있으면서 프레젠터와 모델은 직접적으로 연결됩니다.
 
+------------------------------------
+
 
 <!--
 **chaeyoonl/chaeyoonl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
