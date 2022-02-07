@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@chaeyoonl" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://blog.naver.com/gkdtkd280" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
-<a href="https://www.notion.so/acbd75c84e834e45acfe388eda1d1b26?v=e9b06de1c0e84822b5dc504cd82473ff&p=098edb9156c04742bc660258b8a8d34d" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://www.notion.so/acbd75c84e834e45acfe388eda1d1b26?v=e9b06de1c0e84822b5dc504cd82473ff&p=098edb9156c04742bc660258b8a8d34d" target="_blank"><img src="![notionImage](https://user-images.githubusercontent.com/48426518/152710713-e8d89775-de8a-4f03-8bb5-0f1898747f47.PNG)
+"/></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaeyoonl&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=chaeyoonl)
