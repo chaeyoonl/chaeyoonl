@@ -32,7 +32,7 @@ https://blog.naver.com/gkdtkd280/222070790036
 - 사용자가 어플을 사용하여 감정을 기록하면 그에 따른 답글을 주고 감정을 케어할 수 있다.
 - 한양대학교 창업경진대회 우수상 수상
 - 아래의 링크에서 해당 어플 다운로드 가능
-</>
+</br>
 https://play.google.com/store/apps/details?id=com.ex.dreamtree
 
 
