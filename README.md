@@ -43,6 +43,7 @@ https://blog.naver.com/gkdtkd280/222070790036
 
 ### [smart farm project]
 - STM32를 활용하여 스마트팜 제작
+- UML 작성 : <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/smart%20farm_uml.pdf" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 
 ------------------------------------
 
