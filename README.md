@@ -46,7 +46,8 @@ https://blog.naver.com/gkdtkd280/222070790036
 ### [smart farm project]
 - STM32를 활용하여 스마트팜 제작
 - UML 작성 : <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/smart%20farm_uml.pdf" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- 펌프모터 작동 : <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-STM32-Timers-PWM-%EC%82%AC%EC%9A%A9"/></a> <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
+- 펌프모터 작동 : <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-STM32-Timers-PWM-%EC%82%AC%EC%9A%A9"/></a> 
+<a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - PWM사용 (펌프모터 및 LED 작동시 사용. LED 빛의 정도 조절 )
 
 ------------------------------------
