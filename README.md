@@ -1,3 +1,10 @@
+### [펌웨어] C로 짠 로봇제어
+- 코드 및 로봇 작동 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
+- 로봇 코드를 짤때, 기본적으로 무한반복문을 써서 동작 코드를 작성합니다.
+
+
+------------------------------------
+
 ### [프로보노_드론]
 - android studio (java)
 - 라즈베리파이에 대기질 측정센서를 부착하여, 해당 정보를 AWS를 이용하여 사용자가 편하게 확인할 수 있도록 android 어플 제작
@@ -53,9 +60,7 @@ https://blog.naver.com/gkdtkd280/222070790036
 
 ------------------------------------
 
-### [펌웨어] C로 짠 로봇제어
-- 코드 및 로봇 작동 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- 로봇 코드를 짤때, 기본적으로 무한반복문을 써서 동작 코드를 작성합니다.
+
 
 
 ### [android] MVP의 중요성
