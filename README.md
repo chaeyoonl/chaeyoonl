@@ -3,8 +3,6 @@
 - 로봇 코드를 짤때, 기본적으로 무한반복문을 써서 동작 코드를 작성합니다.
 
 
-------------------------------------
-
 ### [프로보노_드론]
 - android studio (java)
 - 라즈베리파이에 대기질 측정센서를 부착하여, 해당 정보를 AWS를 이용하여 사용자가 편하게 확인할 수 있도록 android 어플 제작
@@ -21,6 +19,9 @@ https://blog.naver.com/gkdtkd280/222487862314
 - 펌프모터 작동 : <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> 
 <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-STM32-Timers-PWM-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - PWM사용 (펌프모터 및 LED 작동시 사용. LED 빛의 정도 조절 )
+
+
+------------------------------------
 
 
 ### [긴급SOS_APP]
@@ -57,8 +58,6 @@ https://blog.naver.com/gkdtkd280/222070790036
 - 클린코드를 참고하여 함수명과 네이밍에 있어서 이름만 보고 기능을 알 수 있도록 제작
 
 (회사 내부 자료로 공개가 불가능합니다.)
-
-------------------------------------
 
 
 
