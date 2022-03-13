@@ -1,4 +1,4 @@
-### [펌웨어] C로 짠 로봇제어
+### [로봇 코딩] C로 짠 로봇제어
 - 코드 및 로봇 작동 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - 로봇 코드를 짤때, 기본적으로 무한반복문을 써서 동작 코드를 작성합니다.
 
