@@ -65,6 +65,7 @@ https://blog.naver.com/gkdtkd280/222070790036
 ### [android] MVP의 중요성
 - MVP패턴이 적용된다면, 모델을 고칠경우 뷰에게 영향을 끼치지 않고 뷰를 고칠경우 모델에 영향을 끼치지 않아서 개발의 효율성을 높일 수 있습니다.
 - 모델과 뷰는 분리되어있으면서 프레젠터와 모델은 직접적으로 연결됩니다.
+- MVP 적용 : <a href="https://velog.io/@chaeyoonl/android-MVP%ED%8C%A8%ED%84%B4" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 
 ------------------------------------
 
