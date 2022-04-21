@@ -31,7 +31,6 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 
 
-
 ### [긴급SOS_APP]
 - android studio (java)
 - 잠금화면에서 버튼 하나를 클릭하면, 미리 설정한 번호로 바로 통화가 연결되는 긴급 잠금어플 개발
