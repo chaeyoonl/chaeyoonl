@@ -21,7 +21,8 @@ https://blog.naver.com/gkdtkd280/222487862314
 - PWM사용 (펌프모터 및 LED 작동시 사용. LED 빛의 정도 조절 )
 
 
-
+### [stm32 통신]
+- UART 통신 : <a href="https://velog.io/@chaeyoonl/STM32-UART%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
 
