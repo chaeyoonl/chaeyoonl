@@ -23,7 +23,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 ### [stm32 통신]
 - UART 통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-UART%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- UART_printf(): <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/UART_printf()" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
+- UART_printf(): <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/UART_printf()" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-UARTprintf" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 
 
