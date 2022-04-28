@@ -22,14 +22,15 @@ https://blog.naver.com/gkdtkd280/222487862314
 - PWM사용 (펌프모터 및 LED 작동시 사용. LED 빛의 정도 조절 )
 
 
-### [stm32 통신]
+### [stm32 통신_UART]
 - UART 통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-UART%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - UART_printf(): <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/UART_printf()" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-UARTprintf" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - UART Tx및Rx (링버퍼 이용): <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/ringbuffer_TxRx_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-UARTTx-%EB%B0%8F-Rx-%EB%A7%81%EB%B2%84%ED%8D%BC-%EC%9D%B4%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - 링버퍼 선언부와 구현부: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/rb.h" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/rb.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - 전송 데이터: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/compareAndTrans.h" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/compareAndTrans.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 
-
+### [stm32 통신_I2C]
+- 관련 오류: <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALBUSY-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 
 ------------------------------------
