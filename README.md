@@ -31,7 +31,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 ### [stm32 통신_I2C]
 - I2C통신의 정의: 
-- 외부 EEPROM 주소 접근 : <a href="https://velog.io/@chaeyoonl/STM32-I2C%EC%99%B8%EB%B6%80-EEPROM-%EC%A3%BC%EC%86%8C-%EC%A0%91%EA%B7%BC" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
+- 외부 EEPROM 주소 접근 : <a href="https://velog.io/@chaeyoonl/STM32-I2C%EC%99%B8%EB%B6%80-EEPROM-%EC%A3%BC%EC%86%8C-%EC%A0%91%EA%B7%BC" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - 외부 EEPROM 사용 코드: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study_I2C_External_EEPROM" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - 관련 해결 오류: <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALBUSY-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALI2CMemWrite-not-write-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
