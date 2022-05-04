@@ -42,11 +42,11 @@ https://blog.naver.com/gkdtkd280/222487862314
 ### [stm32 통신_SPI]
 - SPI통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-%EC%8B%9C%EB%A6%AC%EC%96%BC-%ED%86%B5%EC%8B%A0SPI%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - SPI 통신 모드 설정: 
-- SPI 통신 코드: 
+- SPI 통신 코드: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study_I2C_External_EEPROM" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - STM32 보드 2개를 가지고 SPI 통신 방식을 이용
 
 ### [stm32 클린코드]
-- Pin naming: <a href="https://velog.io/@chaeyoonl/stm32-pin-naming" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- Pin naming: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 
 ------------------------------------
