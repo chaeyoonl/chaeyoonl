@@ -44,7 +44,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 - STM32 보드 2개를 가지고 SPI 통신 방식을 이용
 
 ### [stm32 EXTI 외부 인터럽트]
-- 외부 인터럽트 사용: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/EXTI_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
+- 외부 인터럽트 사용: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/EXTI_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-EXTI" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ### [stm32 클린코드]
 - Pin naming: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
