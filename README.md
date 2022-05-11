@@ -48,6 +48,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 ### [stm32 sleep mode와 wakeup]
 - sleep mode: 
+- 디지털 멀티미터로 측정한 읿반 상태와 sleep mode 상태의 전류 차이: 
 
 ### [stm32 클린코드]
 - Pin naming: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
