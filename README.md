@@ -47,7 +47,11 @@ https://blog.naver.com/gkdtkd280/222487862314
 - 외부 인터럽트 사용: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/EXTI_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-EXTI" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ### [stm32 sleep mode와 wakeup]
-- sleep mode: 
+- sleep mode, stop mode, standby mode의 차이: <a href="https://velog.io/@chaeyoonl/stm32-sleep-mode-stop-mode-standby-mode%EC%9D%98-%EC%B0%A8%EC%9D%B4" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- sleep mode 사용: <a href="https://velog.io/@chaeyoonl/stm32-sleep-mode-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- stop mode 사용: <a href="https://velog.io/@chaeyoonl/stm32-stop-mode-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- standby mode 사용: <a href="https://velog.io/@chaeyoonl/stm32-standby-mode-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- 절전모드 알고리즘 및 코드 작성: 
 - 디지털 멀티미터로 측정한 읿반 상태와 sleep mode 상태의 전류 차이: 
 
 ### [stm32 클린코드]
