@@ -52,7 +52,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 - stop mode 사용: <a href="https://velog.io/@chaeyoonl/stm32-stop-mode-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - standby mode 사용: <a href="https://velog.io/@chaeyoonl/stm32-standby-mode-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - 절전모드 알고리즘 및 코드 작성: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/sleep%20mode%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.PNG" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/sleep%2C%20stop%2C%20standby%20mode_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- 디지털 멀티미터로 측정한 읿반 상태와 sleep mode 상태의 전류 차이: 
+- 디지털 멀티미터로 측정한 읿반 상태와 sleep mode, stop mode, standby mode 상태의 전류 차이 확인
 
 ### [stm32 클린코드]
 - Pin naming: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
