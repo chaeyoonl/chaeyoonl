@@ -37,6 +37,10 @@ https://blog.naver.com/gkdtkd280/222487862314
 - 외부 EEPROM 주소 접근 : <a href="https://velog.io/@chaeyoonl/STM32-I2C%EC%99%B8%EB%B6%80-EEPROM-%EC%A3%BC%EC%86%8C-%EC%A0%91%EA%B7%BC" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - 외부 EEPROM 사용 코드: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study_I2C_External_EEPROM" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - 관련 해결 오류: <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALBUSY-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALI2CMemWrite-not-write-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- I2C를 사용할때는 push pull이 아닌 open drain을 사용해야 한다. (버스의 장치가 손상될 수 있기 때문)
+  <push pull, open drain>
+  - push pull: <a href="https://velog.io/@chaeyoonl/push-pull" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+  - open drain: <a href="https://velog.io/@chaeyoonl/open-drain" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ### [stm32 통신_SPI]
 - SPI통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-%EC%8B%9C%EB%A6%AC%EC%96%BC-%ED%86%B5%EC%8B%A0SPI%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
