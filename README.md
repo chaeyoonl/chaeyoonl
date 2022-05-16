@@ -66,7 +66,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 ------------------------------------
 
 ### [IAR Embedded Workbench IDE]
-
+- 디버거를 이용한 어셈블리 분석: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Workbench-IDE-%EB%94%94%EB%B2%84%EA%B1%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ------------------------------------
 
