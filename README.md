@@ -65,10 +65,12 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 ------------------------------------
 
-최근 STM32 보드 대신 Giga Device를 사용하는 이유: <a href="https://velog.io/@chaeyoonl/%EC%B5%9C%EA%B7%BC-STM32-%EB%B3%B4%EB%93%9C-%EB%8C%80%EC%8B%A0-Giga-Device%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+### [Giga Device]
+- 최근 STM32 보드 대신 Giga Device를 사용하는 이유: <a href="https://velog.io/@chaeyoonl/%EC%B5%9C%EA%B7%BC-STM32-%EB%B3%B4%EB%93%9C-%EB%8C%80%EC%8B%A0-Giga-Device%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- GD 프로그램 코드 짜는 방법: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Workbench-IDE-%EB%94%94%EB%B2%84%EA%B1%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ### [IAR Embedded Workbench IDE]
-- 디버거를 이용한 어셈블리 분석: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Workbench-IDE-%EB%94%94%EB%B2%84%EA%B1%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- 디버거를 이용한 어셈블리 분석: <a href="https://velog.io/@chaeyoonl/Giga-Device-GD-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%BD%94%EB%93%9C-%EC%A7%9C%EB%8A%94-%EB%B0%A9%EB%B2%95" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ------------------------------------
 
