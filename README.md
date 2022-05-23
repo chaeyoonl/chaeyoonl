@@ -73,6 +73,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 ### [IAR Embedded Workbench IDE]
 - 관련 오류 해결: <a href="https://velog.io/@chaeyoonl/IAR-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/IAR-Probe-not-found-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>  <a href="https://velog.io/@chaeyoonl/IAR-STM32CubeMX-Code-Generation-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 - 디버거를 이용한 어셈블리 분석: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Workbench-IDE-%EB%94%94%EB%B2%84%EA%B1%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- IAR Embedded Work를 VS Code에서 사용하는 방법: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Work%EB%A5%BC-VS-Code%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 
 ------------------------------------
