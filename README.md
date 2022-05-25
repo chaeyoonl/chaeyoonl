@@ -44,7 +44,7 @@ https://blog.naver.com/gkdtkd280/222487862314
   - open drain: <a href="https://velog.io/@chaeyoonl/open-drain" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ### [stm32 통신_SPI]
-- SPI통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-%EC%8B%9C%EB%A6%AC%EC%96%BC-%ED%86%B5%EC%8B%A0SPI%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- SPI통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-%EC%8B%9C%EB%A6%AC%EC%96%BC-%ED%86%B5%EC%8B%A0SPI%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/STM32-SPI-HAL-%ED%95%A8%EC%88%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - SPI 통신 코드: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - STM32 보드 2개를 가지고 SPI 통신 방식을 이용
 
