@@ -68,7 +68,11 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 
 
-
+### [STM32CubeMX Code Generation 이후 설정]
+- Code Generation을 진행한 뒤에 삭제가 되는 부분이 있기에, 재정의 해주어야 하는 부분이 있다. (오류로 추측된다)
+- main의 #include 부분이 삭제되기에, Code Generation 이전에 해당 부분을 미리 복사해둔 뒤에 붙여넣기를 하면 편하다.
+- I2C 설정 부분 (stm32f4xx_hal_msp.c) : <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALBUSY-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+- USART 인터럽트 부분 (stm32f4xx_it.c) : <a href="https://velog.io/@chaeyoonl/stm32-UART-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8-%EC%84%A4%EC%A0%95%EB%B6%80%EB%B6%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
 
