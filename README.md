@@ -115,7 +115,7 @@ https://blog.naver.com/gkdtkd280/222487862314
 - USART 인터럽트 부분 (stm32f4xx_it.c) : <a href="https://velog.io/@chaeyoonl/stm32-UART-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8-%EC%84%A4%EC%A0%95%EB%B6%80%EB%B6%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 
-### [임베디드에서의 프론트앤드와 ]
+### [임베디드에서의 프론트엔드와 백엔드]
 
 
 
