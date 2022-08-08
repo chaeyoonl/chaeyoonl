@@ -140,6 +140,14 @@ https://blog.naver.com/gkdtkd280/222487862314
 ------------------------------------
 
 
+### [회로분석]
+- 물리 KEY 분석: <a href="https://velog.io/@chaeyoonl/%ED%9A%8C%EB%A1%9C%EB%B6%84%EC%84%9D-%EB%AC%BC%EB%A6%ACKEY-%ED%9A%8C%EB%A1%9C-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+
+
+
+
+
+------------------------------------
 
 ### [긴급SOS_APP]
 - android studio (java)
