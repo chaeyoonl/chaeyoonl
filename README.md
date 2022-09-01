@@ -144,14 +144,14 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 
 ### [회로분석]
-- 물리 KEY 분석: <a href="https://velog.io/@chaeyoonl/CAN-%ED%86%B5%EC%8B%A0-%EC%86%8C%EA%B0%9C" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- 물리 KEY 분석: <a href="https://velog.io/@chaeyoonl/%ED%9A%8C%EB%A1%9C%EB%B6%84%EC%84%9D-%EB%AC%BC%EB%A6%ACKEY-%ED%9A%8C%EB%A1%9C-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 
 
 ------------------------------------
 
 ### [CAN 통신]
-- CAN 통신 소개 : <a href="https://velog.io/@chaeyoonl/%ED%9A%8C%EB%A1%9C%EB%B6%84%EC%84%9D-%EB%AC%BC%EB%A6%ACKEY-%ED%9A%8C%EB%A1%9C-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- CAN 통신 소개 : <a href="https://velog.io/@chaeyoonl/CAN-%ED%86%B5%EC%8B%A0-%EC%86%8C%EA%B0%9C" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 
 ------------------------------------
