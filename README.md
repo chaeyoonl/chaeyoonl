@@ -152,7 +152,8 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 ### [CAN 통신]
 - CAN 통신 소개 : <a href="https://velog.io/@chaeyoonl/CAN-%ED%86%B5%EC%8B%A0-%EC%86%8C%EA%B0%9C" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- CAN 통신 회로 설계 : <a href="https://velog.io/@chaeyoonl/CAN-%ED%86%B5%EC%8B%A0-%ED%9A%8C%EB%A1%9C-%EC%84%A4%EA%B3%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- CAN 통신 회로 설계 : <a href="https://velog.io/@chaeyoonl/CAN-%ED%86%B5%EC%8B%A0-%ED%9A%8C%EB%A1%9C-%EC%84%A4%EC%A0%95" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
+- CAN 통신 MCU (STM32F446RE) 프로젝트 생성 및 설정 (pin, clock 등) : 
 - CAN 통신 속도 : <a href="https://velog.io/@chaeyoonl/CAN-%ED%86%B5%EC%8B%A0-%EC%86%8D%EB%8F%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - CAN FRAME : <a href="https://velog.io/@chaeyoonl/CAN-FRAME" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - CAN Filtering : <a href="https://velog.io/@chaeyoonl/CAN-Filtering" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
