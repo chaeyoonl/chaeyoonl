@@ -158,6 +158,8 @@ https://blog.naver.com/gkdtkd280/222487862314
 - CAN FRAME : <a href="https://velog.io/@chaeyoonl/CAN-FRAME" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - CAN Filtering : <a href="https://velog.io/@chaeyoonl/CAN-Filtering" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
+- CAN Rx Code : <a href="https://github.com/chaeyoonl/CAN_Rx/tree/main" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
+
 ------------------------------------
 
 ### [긴급SOS_APP]
