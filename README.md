@@ -1,5 +1,5 @@
 ### [STM32]
-- 정리 notion : <a href="https://www.notion.so/STM32-812b831411744a49b16fb2c6c05b6774" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+- 정리 notion : <a href="https://north-algebra-336.notion.site/STM32-812b831411744a49b16fb2c6c05b6774" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### [로봇 코딩] C로 짠 로봇제어
 - 코드 및 로봇 작동 영상 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
