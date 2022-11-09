@@ -1,4 +1,7 @@
 ### STM32 정리 notion : <a href="https://north-algebra-336.notion.site/STM32-812b831411744a49b16fb2c6c05b6774" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+### C언어 정리 notion : <a href="https://north-algebra-336.notion.site/C-047f059fbb4b429791cc8a2fcc9e3521" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
 ### 자기소개 : 
 
 ### [로봇 코딩] C로 짠 로봇제어
