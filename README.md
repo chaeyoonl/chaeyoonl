@@ -8,6 +8,8 @@
 
 ### 암호 및 무결성 검사 : <a href="https://north-algebra-336.notion.site/ac8f529aa0484986bb9934c444c96932" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
+--------------
+
 
 ### [로봇 코딩] C로 짠 로봇제어
 - 코드 및 로봇 작동 영상 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
@@ -30,14 +32,6 @@ https://blog.naver.com/gkdtkd280/222487862314
 - 펌프모터 작동 (PWM을 사용): <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-STM32-Timers-PWM-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 - 식물 성장 LED: <a href="https://www.youtube.com/shorts/V7evv2D7UhA" target="_blank"><img src="https://img.shields.io/youtube/comments/f?style=social"/></a>
 
-
-### [stm32 통신_UART]
-- UART 통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-UART%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- UART_printf(): <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/UART_printf()" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-UARTprintf" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- UART Tx및Rx (링버퍼 이용): <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/ringbuffer_TxRx_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-UARTTx-%EB%B0%8F-Rx-%EB%A7%81%EB%B2%84%ED%8D%BC-%EC%9D%B4%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- 링버퍼 선언부와 구현부: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/rb.h" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/rb.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- 전송 데이터: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/compareAndTrans.h" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/compareAndTrans.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- 인터럽트 설정: <a href="https://velog.io/@chaeyoonl/stm32-UART-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8-%EC%84%A4%EC%A0%95%EB%B6%80%EB%B6%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ### [stm32 통신_I2C]
 - I2C통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-I2C%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/STM32-I2C-HAL-%ED%95%A8%EC%88%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
