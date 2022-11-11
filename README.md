@@ -1,8 +1,13 @@
+### 자기소개 : <a href="https://north-algebra-336.notion.site/5c6500ced83546c59c50756181a22e80" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
 ### STM32 정리 notion : <a href="https://north-algebra-336.notion.site/STM32-812b831411744a49b16fb2c6c05b6774" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+### 회로도 : <a href="https://north-algebra-336.notion.site/2ab55e2434c043eb914004b218e040a6" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### C언어 정리 notion : <a href="https://north-algebra-336.notion.site/C-047f059fbb4b429791cc8a2fcc9e3521" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-### 자기소개 : 
+### 암호 및 무결성 검사 : <a href="https://north-algebra-336.notion.site/ac8f529aa0484986bb9934c444c96932" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
 
 ### [로봇 코딩] C로 짠 로봇제어
 - 코드 및 로봇 작동 영상 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
@@ -25,11 +30,6 @@ https://blog.naver.com/gkdtkd280/222487862314
 - 펌프모터 작동 (PWM을 사용): <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8E%8C%ED%94%84%EB%AA%A8%ED%84%B0-%EC%9E%91%EB%8F%99" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-STM32-Timers-PWM-%EC%82%AC%EC%9A%A9" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 - 식물 성장 LED: <a href="https://www.youtube.com/shorts/V7evv2D7UhA" target="_blank"><img src="https://img.shields.io/youtube/comments/f?style=social"/></a>
 
-### [stm32 GPIO]
-- GPIO란: <a href="https://velog.io/@chaeyoonl/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8C%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-GPIO%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-### [stm32 PWM]
-- pwm이란: <a href="https://velog.io/@chaeyoonl/STM32-PWM" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 
 ### [stm32 통신_UART]
 - UART 통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-UART%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
@@ -104,16 +104,6 @@ https://blog.naver.com/gkdtkd280/222487862314
 - main의 #include 부분이 삭제되기에, Code Generation 이전에 해당 부분을 미리 복사해둔 뒤에 붙여넣기를 하면 편하다.
 - I2C 설정 부분 (stm32f4xx_hal_msp.c) : <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALBUSY-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 - USART 인터럽트 부분 (stm32f4xx_it.c) : <a href="https://velog.io/@chaeyoonl/stm32-UART-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8-%EC%84%A4%EC%A0%95%EB%B6%80%EB%B6%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-
-### [임베디드에서의 프론트엔드와 백엔드]
-
-
-
-------------------------------------
-
-
-### [Git]
 
 
 ------------------------------------
