@@ -1,4 +1,3 @@
-### 자기소개 : <a href="https://north-algebra-336.notion.site/5c6500ced83546c59c50756181a22e80" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 ### STM32 정리 notion : <a href="https://north-algebra-336.notion.site/STM32-812b831411744a49b16fb2c6c05b6774" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
@@ -147,16 +146,6 @@ https://blog.naver.com/gkdtkd280/222070790036
 - 사용자가 어플을 사용하여 감정을 기록하면 그에 따른 답글을 주고 감정을 케어할 수 있다.
 - 한양대학교 창업경진대회 우수상 수상
 - 아래의 링크에서 해당 어플 다운로드 가능</br>https://play.google.com/store/apps/details?id=com.ex.dreamtree
-
-
-### [지아이티(현대자동차 계열사)_자동차 진단 APP]
-- android studio (java, kotlin)
-- 자동차 진단기와의 통신을 통해 고장코드를 받고 해당 DB를 통하여 사용자에게 어디가 고장났는지 어플 화면으로 표출시킨다.
-- MVP 패턴을 적용하여 model과 view를 분리하여 개발 진행 (인터페이스 이용)
-- 클린코드를 참고하여 함수명과 네이밍에 있어서 이름만 보고 기능을 알 수 있도록 제작
-
-(회사 내부 자료로 공개가 불가능합니다.)
-
 
 
 
