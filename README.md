@@ -1,11 +1,11 @@
 
-### STM32 정리 notion : <a href="https://north-algebra-336.notion.site/STM32-812b831411744a49b16fb2c6c05b6774" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+### STM32 정리 notion : <a href="https://quasar-nerine-685.notion.site/STM32-92299ef58e76439ebe51a0c7b2dc05ad" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-### 회로도 : <a href="https://north-algebra-336.notion.site/2ab55e2434c043eb914004b218e040a6" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+### 회로도 : <a href="https://quasar-nerine-685.notion.site/529cd8d243c84cbda501ea06b3f23517" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-### C언어 정리 notion : <a href="https://north-algebra-336.notion.site/C-047f059fbb4b429791cc8a2fcc9e3521" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+### C언어 정리 notion : <a href="https://quasar-nerine-685.notion.site/C-f1d930156bd3401d8eea20b046bc36cd" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
-### 암호 및 무결성 검사 : <a href="https://north-algebra-336.notion.site/ac8f529aa0484986bb9934c444c96932" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+### 암호 및 무결성 검사 : <a href="https://quasar-nerine-685.notion.site/423f780bbe0f417c9540c5ddc983380d" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 --------------
 
