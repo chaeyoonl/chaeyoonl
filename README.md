@@ -25,8 +25,6 @@
 
 - RESTART를 이용한 I2C 통신: <a href="https://velog.io/@chaeyoonl/stm32-restart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-I2C-%ED%86%B5%EC%8B%A0" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/stm32-I2C-%ED%86%B5%EC%8B%A0%EC%8B%9C%EC%97%90-restart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-### [stm32 EXTI 외부 인터럽트]
-- 외부 인터럽트 사용: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/EXTI_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-EXTI" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 ### [stm32 sleep mode와 wakeup]
 - sleep mode, stop mode, standby mode의 차이: <a href="https://velog.io/@chaeyoonl/stm32-sleep-mode-stop-mode-standby-mode%EC%9D%98-%EC%B0%A8%EC%9D%B4" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
