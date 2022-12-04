@@ -110,31 +110,6 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 - CAN Rx Code : <a href="https://github.com/chaeyoonl/CAN_Rx/tree/main" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 
-------------------------------------
-
-### [긴급SOS_APP]
-- android studio (java)
-- 잠금화면에서 버튼 하나를 클릭하면, 미리 설정한 번호로 바로 통화가 연결되는 긴급 잠금어플 개발
-- 개인 프로젝트
-
-[긴급SOS_APP사용설명서.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071826/SOS_APP.pdf)
-
-https://blog.naver.com/gkdtkd280/222070790036
-
-
-
-### [창업동아리_감정기록 다이어리 꿈트리 APP]
-- android studio (java, kotlin)
-- 사용자가 어플을 사용하여 감정을 기록하면 그에 따른 답글을 주고 감정을 케어할 수 있다.
-- 한양대학교 창업경진대회 우수상 수상
-- 아래의 링크에서 해당 어플 다운로드 가능</br>https://play.google.com/store/apps/details?id=com.ex.dreamtree
-
-
-
-### [android] MVP의 중요성
-- MVP패턴이 적용된다면, 모델을 고칠경우 뷰에게 영향을 끼치지 않고 뷰를 고칠경우 모델에 영향을 끼치지 않아서 개발의 효율성을 높일 수 있습니다.
-- 모델과 뷰는 분리되어있으면서 프레젠터와 모델은 직접적으로 연결됩니다.
-- MVP 적용 : <a href="https://velog.io/@chaeyoonl/android-MVP%ED%8C%A8%ED%84%B4" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 
 ------------------------------------
 
