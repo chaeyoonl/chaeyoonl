@@ -10,21 +10,6 @@
 --------------
 
 
-### [로봇 코딩] C로 짠 로봇제어
-- 코드 및 로봇 작동 영상 : <a href="https://blog.naver.com/gkdtkd280/222010346767" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- 로봇 코드를 짤때, 기본적으로 무한반복문을 써서 동작 코드를 작성합니다.
-
-
-### [프로보노_드론]
-- android studio (java)
-- 라즈베리파이에 대기질 측정센서를 부착하여, 해당 정보를 AWS를 이용하여 사용자가 편하게 확인할 수 있도록 android 어플 제작
-- 프로보노 공모전 입선 수상
-
-[제작설계서_최종.pdf](https://github.com/chaeyoonl/chaeyoonl/files/7071976/_.pdf)
-
-https://blog.naver.com/gkdtkd280/222487862314
-
-
 ### [smart farm project]
 - STM32를 활용하여 스마트팜 제작
 - UML 작성 : <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/smart%20farm_uml.pdf" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
