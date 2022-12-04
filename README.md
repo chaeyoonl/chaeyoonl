@@ -48,11 +48,6 @@ https://blog.naver.com/gkdtkd280/222487862314
 
 - RESTART를 이용한 I2C 통신: <a href="https://velog.io/@chaeyoonl/stm32-restart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-I2C-%ED%86%B5%EC%8B%A0" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/stm32-I2C-%ED%86%B5%EC%8B%A0%EC%8B%9C%EC%97%90-restart%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-### [stm32 통신_SPI]
-- SPI통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-%EC%8B%9C%EB%A6%AC%EC%96%BC-%ED%86%B5%EC%8B%A0SPI%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/STM32-SPI-HAL-%ED%95%A8%EC%88%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- SPI 통신 코드: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/SPI%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.png" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
-- STM32 보드 2개를 가지고 SPI 통신 방식을 이용
-
 ### [stm32 EXTI 외부 인터럽트]
 - 외부 인터럽트 사용: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/EXTI_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://velog.io/@chaeyoonl/STM32-EXTI" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
