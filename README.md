@@ -11,6 +11,7 @@
 
 
 
+
 ### [stm32 통신_I2C]
 - I2C통신의 정의: <a href="https://velog.io/@chaeyoonl/STM32-I2C%EB%9E%80" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/STM32-I2C-HAL-%ED%95%A8%EC%88%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
 - 외부 EEPROM 주소 접근 : <a href="https://velog.io/@chaeyoonl/STM32-I2C%EC%99%B8%EB%B6%80-EEPROM-%EC%A3%BC%EC%86%8C-%EC%A0%91%EA%B7%BC" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
