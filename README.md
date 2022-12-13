@@ -1,4 +1,4 @@
-https://embedded.oopy.io/
+- 홈페이지 : https://embedded.oopy.io/
 
 
 --------------
