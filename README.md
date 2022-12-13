@@ -1,11 +1,5 @@
+https://embedded.oopy.io/
 
-### STM32 정리 notion : <a href="https://quasar-nerine-685.notion.site/STM32-92299ef58e76439ebe51a0c7b2dc05ad" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-
-### 회로도 : <a href="https://quasar-nerine-685.notion.site/529cd8d243c84cbda501ea06b3f23517" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-
-### C언어 정리 notion : <a href="https://quasar-nerine-685.notion.site/C-f1d930156bd3401d8eea20b046bc36cd" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
-
-### 암호 및 무결성 검사 : <a href="https://quasar-nerine-685.notion.site/423f780bbe0f417c9540c5ddc983380d" target="_blank"><img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
 --------------
 
