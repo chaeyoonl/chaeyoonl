@@ -29,39 +29,6 @@
 - 절전모드 알고리즘 및 코드 작성: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/sleep%20mode%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98.PNG" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a> <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/sleep%2C%20stop%2C%20standby%20mode_main.c" target="_blank"><img src="https://img.shields.io/github/stars/org?style=social"/></a>
 - 디지털 멀티미터로 측정한 읿반 상태와 sleep mode, stop mode, standby mode 상태의 전류 차이 확인
 
-### [stm32 클린코드]
-- Pin naming: <a href="https://github.com/chaeyoonl/Embedded_STM32_Study/blob/main/spi_main.c" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-
-
-
-
-
-
-
-------------------------------------
-
-
-### [IAR Embedded Workbench IDE]
-- 관련 오류 해결: <a href="https://velog.io/@chaeyoonl/IAR-%EB%9D%BC%EC%9D%B4%EC%84%BC%EC%8A%A4-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/IAR-Probe-not-found-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>  <a href="https://velog.io/@chaeyoonl/IAR-STM32CubeMX-Code-Generation-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/IAR-char-const-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/IAR-I2C-%EC%84%A4%EC%A0%95-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://velog.io/@chaeyoonl/IAR-%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0driver-error" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- 디버거를 이용한 어셈블리 분석: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Workbench-IDE-%EB%94%94%EB%B2%84%EA%B1%B0%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-- IAR Embedded Work를 VS Code에서 사용하는 방법: <a href="https://velog.io/@chaeyoonl/IAR-Embedded-Work%EB%A5%BC-VS-Code%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-
-
-
-### [STM32CubeMX Code Generation 이후 설정]
-- Code Generation을 진행한 뒤에 삭제가 되는 부분이 있기에, 재정의 해주어야 하는 부분이 있다. (오류로 추측된다)
-- main의 #include 부분이 삭제되기에, Code Generation 이전에 해당 부분을 미리 복사해둔 뒤에 붙여넣기를 하면 편하다.
-- I2C 설정 부분 (stm32f4xx_hal_msp.c) : <a href="https://velog.io/@chaeyoonl/STM32-I2C-EEPROM-HALBUSY-%EC%98%A4%EB%A5%98" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-- USART 인터럽트 부분 (stm32f4xx_it.c) : <a href="https://velog.io/@chaeyoonl/stm32-UART-%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8-%EC%84%A4%EC%A0%95%EB%B6%80%EB%B6%84" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-
-
-------------------------------------
-
-
-### [회로분석]
-- 물리 KEY 분석: <a href="https://velog.io/@chaeyoonl/%ED%9A%8C%EB%A1%9C%EB%B6%84%EC%84%9D-%EB%AC%BC%EB%A6%ACKEY-%ED%9A%8C%EB%A1%9C-%EB%B6%84%EC%84%9D" target="_blank"><img src="https://img.shields.io/badge/VELOG-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> 
-
-
 
 ------------------------------------
 
